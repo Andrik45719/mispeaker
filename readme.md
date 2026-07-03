@@ -18,4 +18,4 @@ opkg install libopenssl_1.0.2f-1_meson.ipk --force-downgrade
 
 ## Building
 
-Instructions for building the package from source are available in [build.md](build.md)
+Instructions for building the package from source are available in [build.md](build.txt)
