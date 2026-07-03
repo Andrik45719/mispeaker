@@ -1,5 +1,7 @@
 # Xiaomi Mi Internet Speaker
 
+![Xiaomi Mi Internet Speaker](mi_internet_speaker.jpg)
+
 Replacement OpenSSL libraries for Xiaomi Mi Internet Speaker providing compatibility with HTTPS servers that use **Elliptic Curve Cryptography (ECC)** certificates and ECDHE/ECDSA-based TLS cipher suites.
 
 ## Overview
